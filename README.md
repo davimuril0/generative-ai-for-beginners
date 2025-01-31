@@ -39,9 +39,9 @@ We have created a **[Course Setup](./00-course-setup/README.md?WT.mc_id=academic
 
 Don't forget to [star (🌟) this repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-105485-koreyst) to find it easier later.
 
-## 🧠 Eu sou cagão
+## Davi Murilo é o melhor
 
-If you are looking for more advanced code samples, check out our [collection of Generative AI Code Samples](https://aka.ms/genai-beg-code?WT.mc_id=academic-105485-koreyst) in both **Python** and **TypeScript**.
+Se você tá duvidando, pergunta pras pessoas. **type script**
 
 ## 🗣️ Meet Other Learners, Get Support
 
